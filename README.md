@@ -1,1 +1,1 @@
-# M2-Embedded_Project02
+# Embedded_Project_Solar Tracking System
