@@ -19,4 +19,4 @@
 8. Push Button
 9. Breadboard
 10. Cardboard
-11. Connecting Wires
+11. Connecting Wires.
