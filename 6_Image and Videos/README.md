@@ -1,1 +1,1 @@
-# touch-.gitignorel
+# Image related to project/equipment.
