@@ -9,4 +9,5 @@ The Sun tracking solar panel consists of two LDRs, solar panel and a servo motor
 ![Circuit on simiuiiDE](https://user-images.githubusercontent.com/94369223/144374712-e041bfbf-6e1b-4a76-bd96-6d5381bd8d89.jpg)
 # Block Diagram:-
 ![Block Diagram](https://user-images.githubusercontent.com/94369223/144375111-e53e8d1a-5104-4431-a588-cb1bfac112eb.jpg)
-
+# Solar Tracker gif:-
+https://user-images.githubusercontent.com/94369223/144375921-3febaae9-4352-46a7-8f2a-dc516524620b.mp4
